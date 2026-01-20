@@ -6,18 +6,15 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         //Variable to save the strings
-        String string1 = "";
-        String string2 = "";
-
+        String string = "";
+        
         //We ask for the input
-        System.out.print("Insert the first string: ");
-        string1 = sc.nextLine();
+        System.out.print("Insert the string: ");
+        string = sc.nextLine();
 
-        System.out.print("Insert the second string: ");
-        string2 = sc.nextLine();
 
         //We print out if they are equal
-        System.out.println("\nEquals? " + string1.equalsIgnoreCase(string2));
+        System.out.println("\nAmmount of chars: " + string.length());
 
     }    
 }

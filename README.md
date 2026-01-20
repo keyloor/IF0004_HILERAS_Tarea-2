@@ -1,4 +1,18 @@
-# Debe investigar y mencionar qué es una hilera de caracteres, y algunos ejemplos:
+# Tarea #2 – Manejo de hileras de caracteres
+
+## Información General
+
+**Curso:** IF-0004 – Desarrollo de Software II  
+**Universidad:** Universidad de Costa Rica – Sede Occidente  
+**Profesora:** Angélica María Ulate Céspedes  
+**Fecha de entrega:** 22 de enero de 2025  
+
+### Estudiante
+- Keylor Barrantes Gómez — C5D024 
+
+# I Parte: Investigue:
+
+## Debe investigar y mencionar qué es una hilera de caracteres, y algunos ejemplos:
 
 En Java, una hilera de caracteres es una secuencia de texto representada por la clase String.  
 Se utiliza para almacenar palabras, frases, números en forma de texto y símbolos.
@@ -12,12 +26,12 @@ String vacio = "";
 ```
 
 
-# Debe marcar la diferencia entre un carácter y una hilera:
+## Debe marcar la diferencia entre un carácter y una hilera:
 
 Un carácter (char) representa un solo carácter mientras que una hilera (String) representa varios caracteres juntos.
 
 
-# Investigue y mencione qué operaciones se pueden realizar con una hilera:
+## Investigue y mencione qué operaciones se pueden realizar con una hilera:
 
 **Longitud:** obtiene la cantidad de caracteres.  
 `texto.length();`
